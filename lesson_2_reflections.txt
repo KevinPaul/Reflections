@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a git repository creates the .git file structure and metadata.  
+It needs to be done to be able to track commits and changes to the directory structure.
+
