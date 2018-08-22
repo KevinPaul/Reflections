@@ -13,3 +13,6 @@ Use the staging area to show progress.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When trying out new features.  Branches would help by keeping the feature development separate.
 
+How do the diagrams help you visualize the branch structure?
+The diagrams will show what is in Git Log and what commits are reachable.
+
