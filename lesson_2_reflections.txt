@@ -16,3 +16,6 @@ When trying out new features.  Branches would help by keeping the feature develo
 How do the diagrams help you visualize the branch structure?
 The diagrams will show what is in Git Log and what commits are reachable.
 
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+The result of merging two branches is to have one branch with all of the commits included ordered by timestamp.
+
